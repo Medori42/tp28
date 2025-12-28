@@ -1,4 +1,4 @@
-package com.kiaa.utilities;
+package com.Medori42.utilities;
 
 /**
  * Utility class for date-related validation operations.
@@ -7,7 +7,7 @@ package com.kiaa.utilities;
  * such as leap years according to the Gregorian calendar rules.
  * </p>
  *
- * @author KiAA Khalid
+ * @author Medori42
  * @version 1.0.0
  * @since 2025-12-21
  */
